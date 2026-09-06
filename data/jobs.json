@@ -1,0 +1,19 @@
+[
+  {
+    "company": "Example Company",
+    "title": "Software Development Engineer II - Frontend",
+    "location": "Bangalore",
+    "workMode": "Hybrid",
+    "experience": "3-5 years",
+    "technologies": [
+      "React",
+      "TypeScript",
+      "React Native"
+    ],
+    "matchScore": 94,
+    "postedDate": "2026-09-06",
+    "applyUrl": "https://example.com/replace-me",
+    "source": "Example",
+    "description": "Replace this example with real job data."
+  }
+]

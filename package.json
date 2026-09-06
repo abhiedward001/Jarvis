@@ -1,0 +1,13 @@
+{
+  "name": "sde2-job-digest",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "send-digest": "node src/sendDigest.js",
+    "preview": "node src/sendDigest.js --dry-run"
+  },
+  "dependencies": {
+    "resend": "^6.5.2"
+  }
+}
